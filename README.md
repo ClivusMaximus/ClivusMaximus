@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClivusMaximus
-- 👀 I’m interested in provding all sorts of solutions with software. I tend to use C# across all Microsoft Platforms.
+- 👀 I’m interested in developing all sorts of solutions with software. I tend to use C# across all Microsoft Platforms.
 - 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on anything if it comes with renumeration.
+- 💞️ I’m looking to collaborate on anything if it comes with some sort of benefit.
 - 📫 Reach me on [LinkedIn](linkedin.com/in/clive-wilson-380303a).
 
 <!---
