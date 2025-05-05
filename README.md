@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClivusMaximus
 - 👀 I’m interested in developing all sorts of solutions with software. I tend to use C# across all Microsoft Platforms.
-- 🌱 I’m on a mission to obtain TensorFlow Developer certification.
-- 💞️ I’m looking to collaborate on anything if it comes with some sort of benefit.
+- 🌱 I am a TensorFlow Certified Developer (not that it helps much) and looking to continue my journey into AI/ML and Agentic Applications.
+- 💞️ I’m looking to collaborate on anything constructive.
 - 📫 Reach me on [LinkedIn](linkedin.com/in/clive-wilson-380303a).
 
 <!---
